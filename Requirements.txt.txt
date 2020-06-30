@@ -1,0 +1,6 @@
+Create a Twitter Developer Account. Fill the application form in order to get the following values:-
+
+1. Twitter Consumer API key
+2. Twitter Consumer API Secret key
+3. Twitter Access Token key
+4. Twitter Access Token Secret key
